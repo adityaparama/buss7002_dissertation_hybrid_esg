@@ -277,7 +277,7 @@ Rank,Company,Industry,SIC Division Code,SIC Division Name,LLM Confidence,LLM Rat
 276,Omnicom,"Advertising, Marketing",I,Services,0.9,Advertising and marketing are service-oriented industries.
 277,Texas Instruments,Semiconductors and Other Electronic Components,D,Manufacturing,0.9,Core business involves production of electronic components.
 278,United States Steel,Metals,D,Manufacturing,0.9,Core business involves production of metal goods.
-279,Estée Lauder,Household and Personal Products,D,Manufacturing,0.9,Household products are manufactured goods.
+279,EstÃ©e Lauder,Household and Personal Products,D,Manufacturing,0.9,Household products are manufactured goods.
 280,Farmers Insurance Exchange,Insurance: Property and Casualty (Mutual),H,"Finance, Insurance & Real Estate",1,Insurance company fits in finance and real estate.
 281,Kenvue,Household and Personal Products,D,Manufacturing,0.9,Household products are manufactured goods.
 282,IQVIA s,Health Care: Pharmacy and Other Services,I,Services,0.9,Health care services fall under the Services category.
