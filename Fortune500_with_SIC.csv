@@ -1,0 +1,501 @@
+Rank,Company,Industry,SIC Division Code,SIC Division Name,LLM Confidence,LLM Rationale
+1,Walmart,General Merchandisers,G,Retail Trade,1,Walmart is a major retailer in general merchandise.
+2,Amazon,Internet Services and Retailing,G,Retail Trade,1,Amazon operates primarily as a retailer.
+3,UnitedHealth,Health Care: Insurance and Managed Care,H,"Finance, Insurance & Real Estate",1,Insurance and managed care falls under finance and real estate.
+4,Apple,"Computers, Office Equipment",D,Manufacturing,1,Core business involves production of goods.
+5,CVS Health,Health Care: Pharmacy and Other Services,I,Services,0.9,Pharmacy services fall under health care services.
+6,Berkshire Hathaway,Insurance: Property and Casualty (Stock),H,"Finance, Insurance & Real Estate",1,Insurance companies fall under finance and real estate.
+7,Alphabet,Internet Services and Retailing,G,Retail Trade,1,Retailing is the core of the industry.
+8,Exxon Mobil,Petroleum Refining,D,Manufacturing,1,Petroleum refining is a manufacturing process.
+9,McKesson,Wholesalers: Health Care,F,Wholesale Trade,0.9,Company is a wholesaler in health care.
+10,Cencora,Wholesalers: Health Care,F,Wholesale Trade,0.9,Company is a wholesaler in health care.
+11,JPMorgan Chase,Commercial Banks,H,"Finance, Insurance & Real Estate",1,Banks are classified under finance and insurance.
+12,Costco,General Merchandisers,G,Retail Trade,1,Costco operates as a retailer of general merchandise.
+13,Cigna,Health Care: Pharmacy and Other Services,I,Services,0.9,Health care services fall under the Services category.
+14,Microsoft,Computer Software,I,Services,0.9,Software development falls under services category.
+15,Cardinal Health,Wholesalers: Health Care,F,Wholesale Trade,0.9,Company is a wholesaler in health care.
+16,Chevron,Petroleum Refining,D,Manufacturing,1,Petroleum refining is classified under manufacturing.
+17,Bank of America,Commercial Banks,H,"Finance, Insurance & Real Estate",1,Banking falls under finance and insurance sector.
+18,General Motors,Motor Vehicles & Parts,D,Manufacturing,1,Core business is production of motor vehicles.
+19,Ford Motor,Motor Vehicles & Parts,D,Manufacturing,1,Core business is production of motor vehicles.
+20,Elevance Health,Health Care: Insurance and Managed Care,H,"Finance, Insurance & Real Estate",1,Company operates in health insurance sector.
+21,Citi,Commercial Banks,H,"Finance, Insurance & Real Estate",1,"Citi is a bank, fitting in finance and insurance."
+22,Meta,Internet Services and Retailing,G,Retail Trade,0.9,Company operates as a platform for retailing services.
+23,Centene,Health Care: Insurance and Managed Care,H,"Finance, Insurance & Real Estate",1,Company operates in health insurance and managed care.
+24,Home Depot,Specialty Retailers: Other,G,Retail Trade,1,Home Depot is a retailer specializing in home improvement.
+25,Fannie Mae,Diversified Financials,H,"Finance, Insurance & Real Estate",0.9,Company operates in finance and real estate sectors.
+26,Walgreens,Food & Drug Stores,G,Retail Trade,0.9,Retailer in food and drug sector.
+27,Kroger,Food & Drug Stores,G,Retail Trade,1,Kroger operates as a retailer of food and drugs.
+28,Phillips 66,Petroleum Refining,D,Manufacturing,1,Petroleum refining is classified under manufacturing.
+29,Marathon Petroleum,Petroleum Refining,D,Manufacturing,1,Petroleum refining is classified under manufacturing.
+30,Verizon,Telecommunications,E,Transportation & Public Utilities,1,Telecommunications falls under utilities and public services.
+31,Nvidia,Semiconductors and Other Electronic Components,D,Manufacturing,0.9,Core business involves production of electronic components.
+32,Goldman Sachs,Commercial Banks,H,"Finance, Insurance & Real Estate",1,"Goldman Sachs is a bank, fitting in finance."
+33,Wells Fargo,Commercial Banks,H,"Finance, Insurance & Real Estate",1,"Wells Fargo is a bank, fitting in finance sector."
+34,Valero Energy,Petroleum Refining,D,Manufacturing,1,Petroleum refining is classified under manufacturing.
+35,Comcast,Telecommunications,E,Transportation & Public Utilities,0.9,Telecommunications falls under utilities and public services.
+36,State Farm,Insurance: Property and Casualty (Mutual),H,"Finance, Insurance & Real Estate",1,Insurance companies fall under finance and real estate.
+37,AT&T,Telecommunications,E,Transportation & Public Utilities,1,Telecommunications falls under utilities and public services.
+38,Freddie Mac,Diversified Financials,H,"Finance, Insurance & Real Estate",1,Freddie Mac operates in finance and real estate sectors.
+39,Humana,Health Care: Insurance and Managed Care,H,"Finance, Insurance & Real Estate",1,Health care insurance falls under finance and insurance.
+40,Morgan Stanley,Commercial Banks,H,"Finance, Insurance & Real Estate",1,"Company is a bank, fits finance category."
+41,Target,General Merchandisers,G,Retail Trade,1,Target is a retailer of general merchandise.
+42,StoneX,Diversified Financials,H,"Finance, Insurance & Real Estate",0.9,Diversified financial services indicate a focus on finance.
+43,Tesla,Motor Vehicles & Parts,D,Manufacturing,1,"Tesla produces motor vehicles, classifying it as manufacturing."
+44,Dell Technologies,"Computers, Office Equipment",D,Manufacturing,1,Core business involves production of goods.
+45,PepsiCo,Food Consumer Products,D,Manufacturing,0.9,Food products are manufactured goods.
+46,Walt Disney,Entertainment,I,Services,0.9,Entertainment is primarily a service industry.
+47,UPS,"Mail, Package and Freight Delivery",E,Transportation & Public Utilities,0.9,Core business involves transportation and delivery services.
+48,Johnson & Johnson,Pharmaceuticals,D,Manufacturing,0.9,Pharmaceuticals involve production of goods.
+49,FedEx,"Mail, Package and Freight Delivery",E,Transportation & Public Utilities,0.9,Core business involves transportation and delivery services.
+50,Archer Daniels Midland,Food Production,A,"Agriculture, Forestry & Fishing",0.9,Food production relates to agriculture and fishing.
+51,Procter & Gamble,Household and Personal Products,D,Manufacturing,0.9,Household products are manufactured goods.
+52,Lowe's,Specialty Retailers: Other,G,Retail Trade,1,Lowe's is a retailer specializing in home improvement.
+53,Energy Transfer,Pipelines,E,Transportation & Public Utilities,0.9,Pipelines are part of utility transportation services.
+54,RTX,Aerospace & Defense,D,Manufacturing,0.9,Aerospace & Defense involves production of goods.
+55,Albertsons,Food & Drug Stores,G,Retail Trade,1,Retailer of food and drug products.
+56,Sysco,Wholesalers: Food and Grocery,F,Wholesale Trade,0.9,Company is a wholesaler of food and grocery.
+57,Progressive,Insurance: Property and Casualty (Stock),H,"Finance, Insurance & Real Estate",1,Insurance companies fall under finance and real estate.
+58,American Express,Diversified Financials,H,"Finance, Insurance & Real Estate",1,Company operates in financial services sector.
+59,Lockheed Martin,Aerospace & Defense,D,Manufacturing,0.9,Aerospace manufacturing is a core production of goods.
+60,MetLife,"Insurance: Life, Health (Stock)",H,"Finance, Insurance & Real Estate",1,Insurance companies fall under finance and real estate.
+61,HCA Healthcare,Health Care: Medical Facilities,I,Services,0.9,"Healthcare facilities provide services, not goods."
+62,Prudential Financial,"Insurance: Life, Health (Stock)",H,"Finance, Insurance & Real Estate",1,Insurance company fits finance and real estate category.
+63,Boeing,Aerospace & Defense,D,Manufacturing,0.9,Aerospace manufacturing is a core production of goods.
+64,Caterpillar,Construction and Farm Machinery,C,Construction,0.9,Company focuses on construction machinery production.
+65,Merck,Pharmaceuticals,I,Services,0.9,Pharmaceuticals primarily involve research and development services.
+66,Allstate,Insurance: Property and Casualty (Stock),H,"Finance, Insurance & Real Estate",1,Insurance companies fall under finance and real estate.
+67,Pfizer,Pharmaceuticals,D,Manufacturing,0.9,Pharmaceuticals involve the production of goods.
+68,IBM,Information Technology Services,I,Services,0.9,IBM primarily provides IT services and solutions.
+69,New York Life Insurance,"Insurance: Life, Health (Mutual)",H,"Finance, Insurance & Real Estate",1,Insurance company fits finance and real estate category.
+70,Delta Airlines,Airlines,E,Transportation & Public Utilities,0.9,Airlines are part of transportation services.
+71,Publix Super Markets,Food & Drug Stores,G,Retail Trade,1,Retailer in food and drug sector.
+72,Nationwide,Insurance: Property and Casualty (Mutual),H,"Finance, Insurance & Real Estate",1,Insurance companies fall under finance and real estate.
+73,TD Synnex,Wholesalers: Electronics and Office Equipment,F,Wholesale Trade,0.9,Company is a wholesaler of electronics and office equipment.
+74,United Airlines,Airlines,E,Transportation & Public Utilities,1,Airlines are part of transportation services.
+75,ConocoPhillips,"Mining, Crude-Oil Production",B,Mining,0.9,"Company involved in crude-oil production, fits mining category."
+76,TJX,Specialty Retailers: Apparel,G,Retail Trade,1,Retailer specializing in apparel products.
+77,AbbVie,Pharmaceuticals,D,Manufacturing,0.9,Pharmaceuticals involve production of goods.
+78,Enterprise Products Partners,Pipelines,E,Transportation & Public Utilities,0.9,Pipelines are part of utility transportation services.
+79,Charter Communications,Telecommunications,E,Transportation & Public Utilities,1,Telecommunications falls under utilities and public services.
+80,Performance Food,Wholesalers: Food and Grocery,F,Wholesale Trade,0.9,Company is a wholesaler in food and grocery.
+81,American Airlines,Airlines,E,Transportation & Public Utilities,1,Airlines are part of transportation services.
+82,Capital One,Commercial Banks,H,"Finance, Insurance & Real Estate",1,"Company is a bank, fits finance category."
+83,Cisco Systems,Network and Other Communications Equipment,D,Manufacturing,0.9,Core business involves production of communication equipment.
+84,HP,"Computers, Office Equipment",D,Manufacturing,1,Core business involves production of goods.
+85,Tyson Foods,Food Production,D,Manufacturing,0.9,Food production involves manufacturing processes.
+86,Intel,Semiconductors and Other Electronic Components,D,Manufacturing,0.9,Core business involves production of electronic components.
+87,Oracle,Computer Software,I,Services,0.9,Software development falls under services category.
+88,Broadcom,Semiconductors and Other Electronic Components,D,Manufacturing,0.9,Core business involves production of electronic components.
+89,Deere,Construction and Farm Machinery,C,Construction,0.9,Company focuses on construction machinery production.
+90,Nike,Apparel,D,Manufacturing,0.9,Nike produces goods in the apparel industry.
+91,Liberty Mutual Insurance,Insurance: Property and Casualty (Stock),H,"Finance, Insurance & Real Estate",1,Insurance company fits in finance and real estate.
+92,Plains GP,Pipelines,E,Transportation & Public Utilities,0.9,Pipelines are part of transportation utilities.
+93,USAA,Insurance: Property and Casualty (Stock),H,"Finance, Insurance & Real Estate",1,Insurance companies fall under finance and real estate.
+94,Bristol-Myers Squibb,Pharmaceuticals,D,Manufacturing,0.9,Pharmaceuticals involve production of goods.
+95,Ingram Micro,Wholesalers: Electronics and Office Equipment,F,Wholesale Trade,0.9,Company is primarily a wholesaler of electronics.
+96,General Dynamics,Aerospace & Defense,D,Manufacturing,0.9,Aerospace manufacturing is a core production of goods.
+97,Coca-Cola,Beverages,D,Manufacturing,0.9,Coca-Cola primarily produces and manufactures beverages.
+98,TIAA,"Insurance: Life, Health (Mutual)",H,"Finance, Insurance & Real Estate",1,Insurance company fits in finance and real estate.
+99,Travelers,Insurance: Property and Casualty (Stock),H,"Finance, Insurance & Real Estate",1,Insurance companies fall under finance and real estate.
+100,Eli Lilly,Pharmaceuticals,D,Manufacturing,0.9,Pharmaceuticals involve production of goods.
+101,Uber,Internet Services and Retailing,G,Retail Trade,0.9,Uber operates as a platform for retail services.
+102,Mass Mutual,"Insurance: Life, Health (Mutual)",H,"Finance, Insurance & Real Estate",1,Insurance company fits in finance and real estate.
+103,Dow,Chemicals,D,Manufacturing,1,"Chemicals are produced goods, fitting manufacturing."
+104,Thermo Fisher Scientific,"Scientific, Photographic and Control Equipment",D,Manufacturing,0.9,Core business involves production of scientific equipment.
+105,U.S. Bancorp,Commercial Banks,H,"Finance, Insurance & Real Estate",1,"Company is a bank, fits finance category."
+106,World Kinect,Energy,E,Transportation & Public Utilities,0.9,Energy relates to utilities and public services.
+107,Abbott Laboratories,Medical Products and Equipment,I,Services,0.9,Medical products relate to healthcare services.
+108,Best Buy,Specialty Retailers: Other,G,Retail Trade,1,Best Buy is a retailer specializing in electronics.
+109,Northwestern Mutual,"Insurance: Life, Health (Mutual)",H,"Finance, Insurance & Real Estate",1,Insurance company fits in finance and real estate.
+110,Northrop Grumman,Aerospace & Defense,I,Services,0.9,Aerospace & Defense primarily involves services and technology.
+111,Molina Healthcare,Health Care: Insurance and Managed Care,H,"Finance, Insurance & Real Estate",1,Company operates in health insurance and managed care.
+112,Dollar General,Specialty Retailers: Other,G,Retail Trade,1,Dollar General is a retailer specializing in various products.
+113,Bank of New York,Commercial Banks,H,"Finance, Insurance & Real Estate",1,Banking falls under finance and insurance sector.
+114,Warner Bros. Discovery,Entertainment,I,Services,0.9,Entertainment falls under the services sector.
+115,CHS,Food Production,A,"Agriculture, Forestry & Fishing",0.9,Food production relates to agriculture and fishing.
+116,Netflix,Entertainment,I,Services,0.9,Entertainment falls under services sector.
+117,Qualcomm,Semiconductors and Other Electronic Components,D,Manufacturing,0.9,Core business involves production of electronic components.
+118,General Electric,Aerospace & Defense,D,Manufacturing,0.9,Aerospace & Defense involves production of goods.
+119,Honeywell,Industrial Machinery,D,Manufacturing,0.9,Core business involves production of industrial machinery.
+120,Salesforce,Computer Software,I,Services,0.9,Software development falls under services category.
+121,Philip Morris,Tobacco,D,Manufacturing,1,Tobacco production is a manufacturing process.
+122,US Foods,Wholesalers: Food and Grocery,F,Wholesale Trade,0.9,Company is a wholesaler in food and grocery.
+123,D.R. Horton,Homebuilders,C,Construction,0.9,Homebuilders primarily engage in construction activities.
+124,Lithia Motors,"Automotive Retailing, Services",G,Retail Trade,0.9,Automotive retailing indicates a focus on retail trade.
+125,Mondelez,Food Consumer Products,D,Manufacturing,0.9,Food products are manufactured goods.
+126,Starbucks,Food Services,I,Services,0.9,Food services fall under the services category.
+127,Visa,Financial Data Services,H,"Finance, Insurance & Real Estate",0.9,Financial services fall under finance and insurance.
+128,CBRE,Real Estate,H,"Finance, Insurance & Real Estate",1,Real estate services fall under finance and insurance.
+129,Lennar,Homebuilders,C,Construction,1,Homebuilders are primarily involved in construction activities.
+130,GE Vernova,Energy,E,Transportation & Public Utilities,0.9,Energy relates to utilities and public services.
+131,PNC,Commercial Banks,H,"Finance, Insurance & Real Estate",1,"PNC is a bank, fitting in finance and insurance."
+132,Cummins,Industrial Machinery,D,Manufacturing,0.9,Core business involves production of machinery.
+133,Paccar,Motor Vehicles & Parts,D,Manufacturing,0.9,Core business involves production of motor vehicles.
+134,Amgen,Pharmaceuticals,I,Services,0.9,Pharmaceuticals primarily involve research and development services.
+135,PBF Energy,Petroleum Refining,D,Manufacturing,1,Petroleum refining is classified under manufacturing.
+136,GuideWell Mutual,"Insurance: Life, Health (Stock)",H,"Finance, Insurance & Real Estate",1,Insurance company falls under finance and real estate.
+137,PayPal,Financial Data Services,I,Services,0.9,Financial services fall under the Services category.
+138,United Natural Foods,Wholesalers: Food and Grocery,F,Wholesale Trade,0.9,Company is primarily engaged in wholesale food distribution.
+139,Dollar Tree,Specialty Retailers: Other,G,Retail Trade,1,Dollar Tree operates as a retailer of various goods.
+140,Nucor,Metals,D,Manufacturing,0.9,Nucor primarily produces steel and metal products.
+141,Penske Automotive,"Automotive Retailing, Services",G,Retail Trade,0.9,Automotive retailing indicates a focus on retail trade.
+142,Coupang,Internet Services and Retailing,G,Retail Trade,0.9,Retail platform for various products and services.
+143,Hewlett Packard,"Computers, Office Equipment",D,Manufacturing,0.9,Core business involves production of goods.
+144,Duke Energy,Utilities: Gas and Electric,E,Transportation & Public Utilities,1,Utilities fall under transportation and public utilities.
+145,KKR,Securities,H,"Finance, Insurance & Real Estate",0.9,KKR operates in finance and investment services.
+146,Ferguson,Wholesalers: Diversified,F,Wholesale Trade,0.9,"Company is a wholesaler, fitting the wholesale trade category."
+147,Paramount,Entertainment,I,Services,0.9,Entertainment falls under the services sector.
+148,Jabil,Semiconductors and Other Electronic Components,D,Manufacturing,0.9,Core business involves production of electronic components.
+149,Gilead Sciences,Pharmaceuticals,I,Services,0.9,Pharmaceuticals primarily involve research and development services.
+150,HF Sinclair,Petroleum Refining,D,Manufacturing,1,Petroleum refining is classified under manufacturing.
+151,CarMax,"Automotive Retailing, Services",G,Retail Trade,0.9,Automotive retailing indicates a focus on retail trade.
+152,Mastercard,Financial Data Services,H,"Finance, Insurance & Real Estate",0.9,Financial services fall under finance and insurance.
+153,NRG Energy,Energy,E,Transportation & Public Utilities,0.9,Energy production aligns with utilities and public services.
+154,Arrow Electronics,Wholesalers: Electronics and Office Equipment,F,Wholesale Trade,1,Company is a wholesaler of electronics and office equipment.
+155,Baker Hughes,"Oil and Gas Equipment, Services",I,Services,0.9,Company provides services and equipment for oil and gas industry.
+156,Southwest Airlines,Airlines,E,Transportation & Public Utilities,1,Airlines are part of transportation services.
+157,American International,Insurance: Property and Casualty (Stock),H,"Finance, Insurance & Real Estate",1,Insurance companies fall under finance and real estate.
+158,Applied Materials,Semiconductors and Other Electronic Components,D,Manufacturing,0.9,Core business involves production of electronic components.
+159,Occidental Petroleum,"Mining, Crude-Oil Production",B,Mining,0.9,Company focuses on crude-oil production in mining.
+160,AutoNation,"Automotive Retailing, Services",G,Retail Trade,0.9,Retailing of automobiles fits retail trade category.
+161,Southern,Utilities: Gas and Electric,E,Transportation & Public Utilities,1,Utilities fall under transportation and public utilities.
+162,Hartford Insurance,Insurance: Property and Casualty (Stock),H,"Finance, Insurance & Real Estate",1,Insurance companies fall under finance and real estate.
+163,Apollo Global Management,Securities,H,"Finance, Insurance & Real Estate",0.9,Securities relate to finance and investment management.
+164,Charles Schwab,Securities,H,"Finance, Insurance & Real Estate",1,Securities fall under finance and investment services.
+165,McDonald's,Food Services,I,Services,0.9,Food services fall under the services category.
+166,Kraft Heinz,Food Consumer Products,D,Manufacturing,0.9,Food products are manufactured goods.
+167,Advanced Micro Devices,Semiconductors and Other Electronic Components,D,Manufacturing,0.9,Core business involves production of electronic components.
+168,Truist Financial,Commercial Banks,H,"Finance, Insurance & Real Estate",1,Company operates in the banking sector.
+169,Freeport-McMoRan,"Mining, Crude-Oil Production",B,Mining,1,Company is primarily engaged in mining activities.
+170,Micron Technology,Semiconductors and Other Electronic Components,D,Manufacturing,0.9,Core business involves production of electronic components.
+171,Marriott International,"Hotels, Casinos, Resorts",I,Services,0.9,Hotels and resorts are service-oriented businesses.
+172,Carrier Global,Industrial Machinery,D,Manufacturing,0.9,Core business involves production of machinery.
+173,NextEra Energy,Utilities: Gas and Electric,E,Transportation & Public Utilities,1,Utilities fall under transportation and public utilities category.
+174,3M,Chemicals,D,Manufacturing,0.9,"3M produces chemical products, fitting manufacturing."
+175,Marsh & McLennan,Diversified Financials,H,"Finance, Insurance & Real Estate",1,Company operates in finance and insurance sectors.
+176,PG&E,Utilities: Gas and Electric,E,Transportation & Public Utilities,1,Utilities fall under transportation and public utilities category.
+177,Union Pacific,Railroads,E,Transportation & Public Utilities,1,Railroads are part of transportation services.
+178,Synchrony Financial,Diversified Financials,H,"Finance, Insurance & Real Estate",0.9,Company operates in financial services sector.
+179,Block,Financial Data Services,I,Services,0.9,Financial data services fall under the services category.
+180,Danaher,Medical Products and Equipment,I,Services,0.9,Medical products relate to healthcare services.
+181,Avnet,Wholesalers: Electronics and Office Equipment,F,Wholesale Trade,1,Company is a wholesaler of electronics and office equipment.
+182,Booking s,Internet Services and Retailing,G,Retail Trade,0.9,Company operates in retailing services online.
+183,EOG Resources,"Mining, Crude-Oil Production",B,Mining,1,Company is focused on crude-oil production.
+184,Quanta Services,Engineering & Construction,C,Construction,0.9,Company focuses on engineering and construction services.
+185,Discover Financial,Diversified Financials,H,"Finance, Insurance & Real Estate",1,Company operates in financial services sector.
+186,Constellation Energy,Energy,E,Transportation & Public Utilities,0.9,Energy relates to utilities and public services.
+187,Genuine Parts,Wholesalers: Diversified,F,Wholesale Trade,0.9,"Company is a wholesaler, fitting Wholesale Trade category."
+188,Jones Lang LaSalle,Real Estate,H,"Finance, Insurance & Real Estate",1,Real estate services fall under finance and insurance.
+189,Lear,Motor Vehicles & Parts,D,Manufacturing,1,Core business involves production of goods.
+190,Live Nation Entertainment,Entertainment,I,Services,0.9,Entertainment is primarily a service industry.
+191,Sherwin-Williams,Chemicals,D,Manufacturing,0.9,Core business involves production of chemical goods.
+192,Exelon,Utilities: Gas and Electric,E,Transportation & Public Utilities,1,Utilities fall under transportation and public utilities category.
+193,Macy's,General Merchandisers,G,Retail Trade,1,Macy's is a retailer in general merchandising.
+194,Halliburton,"Oil and Gas Equipment, Services",I,Services,0.9,Company provides services in oil and gas sector.
+195,Stryker,Medical Products and Equipment,I,Services,0.9,Medical products relate to healthcare services.
+196,Reinsurance of America,"Insurance: Life, Health (Stock)",H,"Finance, Insurance & Real Estate",1,Insurance company fits in finance and real estate.
+197,Waste Management,Waste Management,I,Services,0.9,Waste management is a service-oriented industry.
+198,State Street,Commercial Banks,H,"Finance, Insurance & Real Estate",1,Company operates in the banking sector.
+199,WESCO International,Wholesalers: Diversified,F,Wholesale Trade,0.9,"Company is a wholesaler, fitting the wholesale trade category."
+200,Oneok,Pipelines,E,Transportation & Public Utilities,0.9,Pipelines are part of utility transportation services.
+201,Adobe,Computer Software,I,Services,0.9,Adobe primarily provides software services and solutions.
+202,American Family Insurance,Insurance: Property and Casualty (Stock),H,"Finance, Insurance & Real Estate",1,Insurance company fits in finance and real estate.
+203,L3Harris Technologies,Aerospace & Defense,D,Manufacturing,0.9,Aerospace & Defense involves production of goods.
+204,Ross Stores,Specialty Retailers: Apparel,G,Retail Trade,1,Retailer specializing in apparel products.
+205,CDW,Information Technology Services,I,Services,0.9,IT services fall under the services category.
+206,Tenet Healthcare,Health Care: Medical Facilities,I,Services,0.9,Healthcare facilities fall under services category.
+207,BJ's Wholesale Club,General Merchandisers,F,Wholesale Trade,0.9,Wholesale club indicates a focus on wholesale trade.
+208,Fiserv,Financial Data Services,I,Services,0.9,Financial data services fall under the services category.
+209,Altria,Tobacco,D,Manufacturing,0.9,Tobacco production is a manufacturing process.
+210,BlackRock,Securities,H,"Finance, Insurance & Real Estate",0.9,Securities are part of finance and investment services.
+211,Becton Dickinson,Medical Products and Equipment,I,Services,0.9,Medical products relate to healthcare services.
+212,Colgate-Palmolive,Household and Personal Products,D,Manufacturing,0.9,Household products are manufactured goods.
+213,Kimberly-Clark,Household and Personal Products,D,Manufacturing,0.9,Produces goods for household and personal use.
+214,1 Automotive,"Automotive Retailing, Services",G,Retail Trade,0.9,Retailing indicates a focus on selling automotive products.
+215,Parker-Hannifin,Industrial Machinery,D,Manufacturing,0.9,Core business involves production of machinery.
+216,General Mills,Food Consumer Products,D,Manufacturing,0.9,Food products are manufactured goods.
+217,Cognizant Technology,Information Technology Services,I,Services,0.9,"Company provides IT services, fitting in the services category."
+218,American Electric Power,Utilities: Gas and Electric,E,Transportation & Public Utilities,1,Utilities fall under transportation and public utilities category.
+219,GE HealthCare Technologies,Medical Products and Equipment,I,Services,0.9,Medical products relate to healthcare services.
+220,Automatic Data Processing,Diversified Outsourcing Services,I,Services,0.9,Outsourcing services align with the Services sector.
+221,Cleveland-Cliffs,Metals,D,Manufacturing,0.9,Metals production aligns with manufacturing activities.
+222,Aflac,"Insurance: Life, Health (Stock)",H,"Finance, Insurance & Real Estate",1,Insurance company fits finance and real estate category.
+223,Goodyear Tire & Rubber,Motor Vehicles & Parts,D,Manufacturing,1,Core business involves production of goods.
+224,Corebridge Financial,Diversified Financials,H,"Finance, Insurance & Real Estate",0.9,Corebridge operates in financial services sector.
+225,Newmont,"Mining, Crude-Oil Production",B,Mining,1,Company is primarily engaged in mining activities.
+226,International Paper,"Packaging, Containers",D,Manufacturing,0.9,Core business involves production of goods.
+227,AutoZone,Specialty Retailers: Other,G,Retail Trade,1,Retailer specializing in automotive parts and accessories.
+228,Lincoln National,"Insurance: Life, Health (Stock)",H,"Finance, Insurance & Real Estate",1,Insurance company fits finance and real estate category.
+229,Pulte,Homebuilders,C,Construction,1,Homebuilders are primarily involved in construction activities.
+230,Ameriprise Financial,Diversified Financials,H,"Finance, Insurance & Real Estate",0.9,Company operates in financial services sector.
+231,Murphy USA,Specialty Retailers: Other,G,Retail Trade,0.9,Retailer in specialty goods category.
+232,Manpower,Diversified Outsourcing Services,I,Services,0.9,Outsourcing services fall under the services category.
+233,C.H. Robinson Worldwide,Transportation and Logistics,E,Transportation & Public Utilities,0.9,Transportation and logistics fall under public utilities.
+234,PPG Industries,Chemicals,D,Manufacturing,0.9,Chemicals are typically manufactured goods.
+235,Edison International,Utilities: Gas and Electric,E,Transportation & Public Utilities,1,Utilities fall under transportation and public utilities category.
+236,Steel Dynamics,Metals,D,Manufacturing,0.9,Core business involves production of metal goods.
+237,Loews,Insurance: Property and Casualty (Stock),H,"Finance, Insurance & Real Estate",1,Insurance company falls under finance and real estate.
+238,Emerson Electric,Industrial Machinery,D,Manufacturing,0.9,Core business involves production of industrial machinery.
+239,Aramark,Diversified Outsourcing Services,I,Services,0.9,Outsourcing services align with the services sector.
+240,MGM Resorts International,"Hotels, Casinos, Resorts",I,Services,0.9,Hotels and casinos fall under services industry.
+241,Vistra,Energy,E,Transportation & Public Utilities,0.9,Energy relates to utilities and public services.
+242,Asbury Automotive,"Automotive Retailing, Services",G,Retail Trade,0.9,Automotive retailing indicates a focus on retail trade.
+243,W.W. Grainger,Wholesalers: Diversified,F,Wholesale Trade,1,Company operates as a wholesaler.
+244,Global Partners,Energy,E,Transportation & Public Utilities,0.9,Energy suggests involvement in utilities or transportation.
+245,Jacobs Solutions,Diversified Outsourcing Services,I,Services,0.9,Outsourcing services align with the Services sector.
+246,Corteva,Food Production,A,"Agriculture, Forestry & Fishing",0.9,Food production relates to agriculture and farming.
+247,Peter Kiewit Sons',Engineering & Construction,C,Construction,0.9,Company focuses on engineering and construction services.
+248,Boston Scientific,Medical Products and Equipment,I,Services,0.9,Medical products relate to healthcare services.
+249,O'Reilly Automotive,Specialty Retailers: Other,G,Retail Trade,1,Retailer specializing in automotive parts and accessories.
+250,Leidos s,Information Technology Services,I,Services,0.9,"Company provides IT services, fitting in the Services category."
+251,Markel,Insurance: Property and Casualty (Stock),H,"Finance, Insurance & Real Estate",1,Insurance company fits finance and real estate category.
+252,Whirlpool,"Electronics, Electrical Equip.",D,Manufacturing,1,Core business involves production of goods.
+253,Guardian Life,"Insurance: Life, Health (Mutual)",H,"Finance, Insurance & Real Estate",1,Insurance company fits in finance and real estate.
+254,Builders FirstSource,"Building Materials, Glass",C,Construction,0.9,Company focuses on building materials for construction.
+255,Ally Financial,Diversified Financials,H,"Finance, Insurance & Real Estate",1,Company operates in financial services sector.
+256,Targa Resources,Pipelines,E,Transportation & Public Utilities,0.9,Pipelines are part of utility transportation services.
+257,Fluor,Engineering & Construction,C,Construction,0.9,Company focuses on engineering and construction services.
+258,Intuit,Computer Software,I,Services,0.9,Software development falls under services category.
+259,AECOM,Engineering & Construction,C,Construction,0.9,Company focuses on engineering and construction services.
+260,Edward Jones,Securities,H,"Finance, Insurance & Real Estate",1,Securities are part of finance and investment services.
+261,Kohl's,General Merchandisers,G,Retail Trade,1,Retailer selling general merchandise.
+262,Land O'Lakes,Food Consumer Products,D,Manufacturing,0.9,Food products are manufactured goods.
+263,Principal Financial,"Insurance: Life, Health (Stock)",H,"Finance, Insurance & Real Estate",1,Insurance company fits finance and real estate category.
+264,Dominion Energy,Utilities: Gas and Electric,E,Transportation & Public Utilities,1,Utilities fall under transportation and public utilities category.
+265,Kyndryl s,Information Technology Services,I,Services,0.9,IT services fall under the services category.
+266,Republic Services,Waste Management,I,Services,0.9,Waste management is a service-oriented industry.
+267,Devon Energy,"Mining, Crude-Oil Production",B,Mining,0.9,Company focuses on crude-oil production in mining sector.
+268,Illinois Tool Works,Industrial Machinery,D,Manufacturing,0.9,Core business involves production of industrial machinery.
+269,Northern Trust,Commercial Banks,H,"Finance, Insurance & Real Estate",1,Company operates in the banking sector.
+270,Auto-Owners Insurance,Insurance: Property and Casualty (Mutual),H,"Finance, Insurance & Real Estate",1,Insurance companies fall under finance and real estate.
+271,Universal Health Services,Health Care: Medical Facilities,I,Services,0.9,Health care facilities fall under services category.
+272,Pacific Life,"Insurance: Life, Health (Stock)",H,"Finance, Insurance & Real Estate",1,Insurance company fits finance and real estate category.
+273,EchoStar,Telecommunications,E,Transportation & Public Utilities,0.9,Telecommunications falls under utilities and public services.
+274,Ecolab,Chemicals,D,Manufacturing,0.9,Ecolab produces chemical products for various industries.
+275,Cheniere Energy,Pipelines,E,Transportation & Public Utilities,0.9,Pipelines are part of utility transportation services.
+276,Omnicom,"Advertising, Marketing",I,Services,0.9,Advertising and marketing are service-oriented industries.
+277,Texas Instruments,Semiconductors and Other Electronic Components,D,Manufacturing,0.9,Core business involves production of electronic components.
+278,United States Steel,Metals,D,Manufacturing,0.9,Core business involves production of metal goods.
+279,Estée Lauder,Household and Personal Products,D,Manufacturing,0.9,Household products are manufactured goods.
+280,Farmers Insurance Exchange,Insurance: Property and Casualty (Mutual),H,"Finance, Insurance & Real Estate",1,Insurance company fits in finance and real estate.
+281,Kenvue,Household and Personal Products,D,Manufacturing,0.9,Household products are manufactured goods.
+282,IQVIA s,Health Care: Pharmacy and Other Services,I,Services,0.9,Health care services fall under the Services category.
+283,Stanley Black & Decker,Industrial Machinery,D,Manufacturing,0.9,Core business involves production of industrial machinery.
+284,Keurig Dr Pepper,Beverages,D,Manufacturing,0.9,"Beverages are produced goods, fitting manufacturing."
+285,United Rentals,Specialty Retailers: Other,G,Retail Trade,0.9,Company operates in specialty retailing sector.
+286,Consolidated Edison,Utilities: Gas and Electric,E,Transportation & Public Utilities,1,Utilities fall under transportation and public utilities category.
+287,Amphenol,Network and Other Communications Equipment,D,Manufacturing,0.9,Core business involves production of communication equipment.
+288,Baxter International,Medical Products and Equipment,I,Services,0.9,Medical products relate to healthcare services.
+289,Kinder Morgan,Pipelines,E,Transportation & Public Utilities,0.9,Pipelines are part of transportation utilities.
+290,Gap,Specialty Retailers: Apparel,G,Retail Trade,1,Retailer specializing in apparel products.
+291,Nordstrom,General Merchandisers,G,Retail Trade,1,Retailer in general merchandising sector.
+292,Super Micro Computer,"Computers, Office Equipment",D,Manufacturing,0.9,Core business involves production of computer equipment.
+293,First Citizens BancShares,Commercial Banks,H,"Finance, Insurance & Real Estate",1,"Company is a bank, fits finance category."
+294,Raymond James Financial,Securities,H,"Finance, Insurance & Real Estate",1,Securities are part of finance and investment services.
+295,Lam Research,Semiconductors and Other Electronic Components,D,Manufacturing,0.9,Core business involves production of electronic components.
+296,Tractor Supply,Specialty Retailers: Other,G,Retail Trade,1,Retailer specializing in specialty products.
+297,Casey's General Stores,Specialty Retailers: Other,G,Retail Trade,1,Retailer specializing in various products.
+298,Viatris,Pharmaceuticals,D,Manufacturing,0.9,Pharmaceuticals involve the production of goods.
+299,Mutual of Omaha Insurance,"Insurance: Life, Health (Mutual)",H,"Finance, Insurance & Real Estate",1,Insurance company fits in finance and real estate.
+300,EMCOR,Engineering & Construction,C,Construction,0.9,Company focuses on engineering and construction services.
+301,CSX,Railroads,E,Transportation & Public Utilities,1,Railroads are part of transportation services.
+302,LKQ,Wholesalers: Diversified,F,Wholesale Trade,0.9,"Company is a wholesaler, fitting Wholesale Trade category."
+303,Otis Worldwide,Industrial Machinery,D,Manufacturing,0.9,Core business involves production of machinery.
+304,Sonic Automotive,"Automotive Retailing, Services",G,Retail Trade,0.9,Automotive retailing indicates a focus on retail trade.
+305,S&P Global,Financial Data Services,I,Services,0.9,Financial data services fall under the services category.
+306,Regeneron Pharmaceuticals,Pharmaceuticals,D,Manufacturing,0.9,Pharmaceuticals involve production of goods.
+307,BorgWarner,Motor Vehicles & Parts,D,Manufacturing,1,Core business involves production of goods.
+308,Fox,Entertainment,I,Services,0.9,Entertainment falls under the services sector.
+309,Reliance,Metals,D,Manufacturing,0.9,Metals production is a manufacturing process.
+310,Western & Southern Financial,"Insurance: Life, Health (Mutual)",H,"Finance, Insurance & Real Estate",1,Company operates in the insurance sector.
+311,Textron,Aerospace & Defense,I,Services,0.9,Aerospace & Defense primarily involves services and technology.
+312,Expedia,Internet Services and Retailing,G,Retail Trade,0.9,Retail platform for travel services and bookings.
+313,Fidelity National Financial,Insurance: Property and Casualty (Stock),H,"Finance, Insurance & Real Estate",1,Insurance company fits in finance and real estate.
+314,Carvana,"Automotive Retailing, Services",G,Retail Trade,0.9,Retailing aspect dominates the automotive services.
+315,DXC Technology,Information Technology Services,I,Services,0.9,IT services fall under the services category.
+316,W.R. Berkley,Insurance: Property and Casualty (Stock),H,"Finance, Insurance & Real Estate",1,Insurance company fits in finance and real estate.
+317,M&T Bank,Commercial Banks,H,"Finance, Insurance & Real Estate",1,Banking falls under finance and insurance sector.
+318,Dick's Sporting Goods,Specialty Retailers: Other,G,Retail Trade,1,Retailer specializing in sporting goods.
+319,Xcel Energy,Utilities: Gas and Electric,E,Transportation & Public Utilities,1,Utilities fall under transportation and public utilities category.
+320,Fifth Third Bancorp,Commercial Banks,H,"Finance, Insurance & Real Estate",1,"Company is a bank, fits finance category."
+321,Blackstone,Diversified Financials,H,"Finance, Insurance & Real Estate",0.9,Blackstone operates in finance and investment services.
+322,Sempra,Utilities: Gas and Electric,E,Transportation & Public Utilities,1,Utilities fall under transportation and public utilities.
+323,Erie Insurance,Insurance: Property and Casualty (Mutual),H,"Finance, Insurance & Real Estate",1,Insurance company fits in finance and real estate.
+324,Corning,"Electronics, Electrical Equip.",D,Manufacturing,0.9,Core business involves production of electronic goods.
+325,Lumen Technologies,Telecommunications,E,Transportation & Public Utilities,0.9,Telecommunications falls under utilities and public services.
+326,FirstEnergy,Utilities: Gas and Electric,E,Transportation & Public Utilities,1,Utilities fall under transportation and public utilities category.
+327,Hess,"Mining, Crude-Oil Production",B,Mining,1,Company is involved in crude-oil production.
+328,Labcorp s,Health Care: Pharmacy and Other Services,I,Services,0.9,Health care services fall under the Services category.
+329,Western Digital,"Computers, Office Equipment",D,Manufacturing,0.9,Core business involves production of goods.
+330,Unum,"Insurance: Life, Health (Stock)",H,"Finance, Insurance & Real Estate",1,Insurance company fits finance and real estate category.
+331,DaVita,Health Care: Medical Facilities,I,Services,0.9,Health care facilities fall under services category.
+332,Kellanova,Food Consumer Products,D,Manufacturing,0.9,Food products are manufactured goods.
+333,Henry Schein,Wholesalers: Health Care,F,Wholesale Trade,0.9,Company is a wholesaler in health care.
+334,Ryder System,Transportation and Logistics,E,Transportation & Public Utilities,1,Transportation and logistics fall under public utilities.
+335,Community Health Systems,Health Care: Medical Facilities,I,Services,0.9,Health care facilities fall under services category.
+336,Delek US,Petroleum Refining,D,Manufacturing,1,Petroleum refining is classified under manufacturing.
+337,DTE Energy,Utilities: Gas and Electric,E,Transportation & Public Utilities,1,Utilities fall under transportation and public utilities category.
+338,Equitable,"Insurance: Life, Health (Stock)",H,"Finance, Insurance & Real Estate",1,Insurance company fits finance and real estate category.
+339,DuPont,Chemicals,D,Manufacturing,0.9,Core business involves production of chemical goods.
+340,LPL Financial s,Securities,H,"Finance, Insurance & Real Estate",1,Securities are part of finance and investment services.
+341,Citizens Financial,Commercial Banks,H,"Finance, Insurance & Real Estate",1,Commercial banks fall under finance and insurance.
+342,MasTec,Engineering & Construction,C,Construction,0.9,Company focuses on engineering and construction services.
+343,AES,Utilities: Gas and Electric,E,Transportation & Public Utilities,1,Utilities fall under transportation and public utilities category.
+344,Berry Global,"Packaging, Containers",D,Manufacturing,0.9,Packaging involves production of goods.
+345,Westlake,Chemicals,D,Manufacturing,0.9,Chemicals are typically manufactured goods.
+346,Norfolk Southern,Railroads,E,Transportation & Public Utilities,1,Railroads are part of transportation services.
+347,Air Products & Chemicals,Chemicals,D,Manufacturing,0.9,Core business involves production of chemical goods.
+348,J.B. Hunt Transport Services,"Trucking, Truck Leasing",E,Transportation & Public Utilities,1,Trucking services fall under transportation utilities.
+349,Ball,"Packaging, Containers",D,Manufacturing,0.9,Packaging involves production of goods.
+350,Conagra Brands,Food Consumer Products,D,Manufacturing,0.9,Food products are manufactured goods.
+351,Huntington Bancshares,Commercial Banks,H,"Finance, Insurance & Real Estate",1,"Company is a bank, fits finance and insurance category."
+352,Hormel Foods,Food Consumer Products,D,Manufacturing,0.9,Food products are manufactured goods.
+353,Eversource Energy,Utilities: Gas and Electric,E,Transportation & Public Utilities,1,Utilities fall under transportation and public utilities category.
+354,Alcoa,Metals,D,Manufacturing,0.9,Alcoa primarily produces metal products.
+355,Entergy,Utilities: Gas and Electric,E,Transportation & Public Utilities,1,Utilities fall under transportation and public utilities category.
+356,Assurant,Insurance: Property and Casualty (Stock),H,"Finance, Insurance & Real Estate",1,Insurance companies fall under finance and real estate.
+357,Chewy,Internet Services and Retailing,G,Retail Trade,0.9,Retailer focused on pet products and services.
+358,Wayfair,Internet Services and Retailing,G,Retail Trade,1,Retailer platform selling home goods online.
+359,Crown s,"Packaging, Containers",D,Manufacturing,0.9,Packaging involves production of goods.
+360,Avis Budget,"Automotive Retailing, Services",G,Retail Trade,0.9,Automotive retailing indicates a focus on retail services.
+361,Intercontinental Exchange,Securities,H,"Finance, Insurance & Real Estate",0.9,Securities are primarily financial services.
+362,Alaska Air,Airlines,E,Transportation & Public Utilities,1,Airlines are part of transportation services.
+363,GXO Logistics,Transportation and Logistics,E,Transportation & Public Utilities,0.9,Transportation and logistics fall under public utilities.
+364,AGCO,Construction and Farm Machinery,D,Manufacturing,0.9,Core business involves production of machinery.
+365,Graybar Electric,Wholesalers: Diversified,F,Wholesale Trade,0.9,"Company is a wholesaler, fitting Wholesale Trade category."
+366,Molson Coors Beverage,Beverages,D,Manufacturing,0.9,"Beverages are produced goods, fitting manufacturing."
+367,Arthur J. Gallagher,Diversified Financials,H,"Finance, Insurance & Real Estate",0.9,Company operates in finance and insurance sectors.
+368,Huntington Ingalls Industries,Aerospace & Defense,D,Manufacturing,0.9,Aerospace & Defense involves production of goods.
+369,International Flavors & Fragrances,Chemicals,D,Manufacturing,0.9,Core business involves production of chemical goods.
+370,Darden Restaurants,Food Services,I,Services,0.9,Food services fall under the services category.
+371,Cincinnati Financial,Insurance: Property and Casualty (Stock),H,"Finance, Insurance & Real Estate",1,Insurance company fits in finance and real estate.
+372,Chipotle Mexican Grill,Food Services,I,Services,0.9,Food services fall under the services category.
+373,Yum China s,Food Services,I,Services,0.9,Food services fall under the services category.
+374,Las Vegas Sands,"Hotels, Casinos, Resorts",I,Services,0.9,Hotels and casinos fall under services sector.
+375,Ulta Beauty,Specialty Retailers: Other,G,Retail Trade,1,Retailer specializing in beauty products.
+376,Caesars Entertainment,"Hotels, Casinos, Resorts",I,Services,0.9,Hotels and casinos fall under services industry.
+377,BrightSpring Health Services,Health Care: Pharmacy and Other Services,I,Services,0.9,Health care services fall under the Services category.
+378,Andersons,Food Production,A,"Agriculture, Forestry & Fishing",0.9,Food production aligns with agriculture and fishing.
+379,Hershey,Food Consumer Products,D,Manufacturing,0.9,Core business involves production of food products.
+380,Hilton,"Hotels, Casinos, Resorts",I,Services,0.9,Hotels and resorts are service-oriented businesses.
+381,Mosaic,Chemicals,D,Manufacturing,0.9,Chemicals are typically manufactured goods.
+382,Airbnb,Internet Services and Retailing,G,Retail Trade,0.9,Airbnb operates as a platform for retailing accommodations.
+383,Diamondback Energy,"Mining, Crude-Oil Production",B,Mining,0.9,Company focuses on crude-oil production in mining sector.
+384,American Tower,Real Estate,H,"Finance, Insurance & Real Estate",0.9,Real estate companies typically fall under finance and insurance.
+385,Vertex Pharmaceuticals,Pharmaceuticals,D,Manufacturing,0.9,Pharmaceuticals involve production of goods.
+386,ServiceNow,Computer Software,I,Services,0.9,Software development falls under services category.
+387,Owens Corning,"Building Materials, Glass",D,Manufacturing,0.9,Core business involves production of building materials.
+388,Thrivent Financial for Lutherans,"Insurance: Life, Health (Mutual)",H,"Finance, Insurance & Real Estate",1,Company operates in the insurance sector.
+389,Advance Auto Parts,Specialty Retailers: Other,G,Retail Trade,1,Retailer specializing in auto parts.
+390,Toll Brothers,Homebuilders,C,Construction,0.9,Homebuilders primarily engage in construction activities.
+391,Mohawk Industries,"Home Equipment, Furnishings",D,Manufacturing,0.9,Core business involves production of goods.
+392,Motorola Solutions,Network and Other Communications Equipment,D,Manufacturing,0.9,Core business involves production of communication equipment.
+393,Oshkosh,Construction and Farm Machinery,C,Construction,1,Company focuses on construction machinery production.
+394,DoorDash,Internet Services and Retailing,G,Retail Trade,0.9,Company operates as a food delivery service platform.
+395,Owens & Minor,Wholesalers: Health Care,F,Wholesale Trade,0.9,Company is a wholesaler in health care.
+396,NVR,Homebuilders,C,Construction,0.9,Homebuilders primarily engage in construction activities.
+397,Interpublic,"Advertising, Marketing",I,Services,0.9,Advertising and marketing are service-oriented industries.
+398,Booz Allen Hamilton,Information Technology Services,I,Services,0.9,Consulting and IT services fall under Services.
+399,Burlington Stores,Specialty Retailers: Apparel,G,Retail Trade,1,Retailer specializing in apparel products.
+400,Expeditors International of Washington,Transportation and Logistics,E,Transportation & Public Utilities,0.9,Transportation and logistics fall under public utilities.
+401,Lululemon athletica,Specialty Retailers: Apparel,G,Retail Trade,1,Retailer specializing in apparel products.
+402,Fidelity National Information,Financial Data Services,I,Services,0.9,Financial data services fall under the services category.
+403,Jefferies Financial,Diversified Financials,H,"Finance, Insurance & Real Estate",1,Company operates in financial services sector.
+404,Williams,Pipelines,E,Transportation & Public Utilities,1,Pipelines are part of utility transportation services.
+405,VF,Apparel,G,Retail Trade,0.9,Apparel is typically sold in retail settings.
+406,FM,Insurance: Property and Casualty (Stock),H,"Finance, Insurance & Real Estate",1,Insurance industry falls under finance and real estate.
+407,Autoliv,Motor Vehicles & Parts,D,Manufacturing,1,Core business involves production of goods.
+408,Westinghouse Air Brake Technologies,Industrial Machinery,D,Manufacturing,0.9,Core business involves production of machinery.
+409,Public Service Enterprise,Utilities: Gas and Electric,E,Transportation & Public Utilities,1,Utilities fall under transportation and public utilities category.
+410,Dana,Motor Vehicles & Parts,D,Manufacturing,1,Core business involves production of goods.
+411,Ebay,Internet Services and Retailing,G,Retail Trade,0.9,Ebay operates as a retail platform for goods.
+412,Celanese,Chemicals,D,Manufacturing,1,"Celanese produces chemicals, fitting manufacturing category."
+413,Global Payments,Financial Data Services,I,Services,0.9,Financial data services fall under the services category.
+414,News Corp.,"Publishing, Printing",I,Services,0.9,Publishing is primarily a service-oriented industry.
+415,THOR Industries,Motor Vehicles & Parts,D,Manufacturing,0.9,Core business involves production of goods.
+416,QVC,Internet Services and Retailing,G,Retail Trade,1,Retail platform selling products online.
+417,Icahn Enterprises,Diversified Financials,H,"Finance, Insurance & Real Estate",0.9,Diversified financials typically fall under finance and real estate.
+418,Constellation Brands,Beverages,D,Manufacturing,0.9,"Beverages are produced goods, fitting manufacturing."
+419,Quest Diagnostics,Health Care: Pharmacy and Other Services,I,Services,0.9,Health care services fall under the Services category.
+420,KLA,Semiconductors and Other Electronic Components,D,Manufacturing,0.9,Core business involves production of electronic components.
+421,QXO Building Products,Wholesalers: Diversified,F,Wholesale Trade,0.9,"Company is a wholesaler, fitting Wholesale Trade category."
+422,APA,"Mining, Crude-Oil Production",B,Mining,1,Company is focused on crude-oil production.
+423,A-Mark Precious Metals,Wholesalers: Diversified,F,Wholesale Trade,0.9,"Company is a wholesaler, fitting Wholesale Trade category."
+424,Biogen,Pharmaceuticals,D,Manufacturing,0.9,Pharmaceuticals involve the production of goods.
+425,Campbell's,Food Consumer Products,D,Manufacturing,0.9,Food products are manufactured goods.
+426,Concentrix,Information Technology Services,I,Services,0.9,IT services fall under the services category.
+427,Cintas,Diversified Outsourcing Services,I,Services,0.9,"Cintas provides various outsourcing services, fitting in Services."
+428,SpartanNash,Wholesalers: Food and Grocery,F,Wholesale Trade,0.9,Company is primarily engaged in wholesale food distribution.
+429,Ace Hardware,Wholesalers: Diversified,F,Wholesale Trade,0.9,Company primarily operates as a wholesaler.
+430,Analog Devices,Semiconductors and Other Electronic Components,D,Manufacturing,0.9,Core business involves production of electronic components.
+431,Eastman Chemical,Chemicals,D,Manufacturing,1,Core business involves production of chemical goods.
+432,Interactive Brokers,Securities,H,"Finance, Insurance & Real Estate",1,Securities are part of finance and investment services.
+433,Regions Financial,Commercial Banks,H,"Finance, Insurance & Real Estate",1,Company operates in the banking sector.
+434,JetBlue Airways,Airlines,E,Transportation & Public Utilities,0.9,Airlines are part of transportation services.
+435,Zoetis,Pharmaceuticals,D,Manufacturing,0.9,Pharmaceuticals involve production of goods.
+436,KeyCorp,Commercial Banks,H,"Finance, Insurance & Real Estate",1,Company operates as a bank in the finance sector.
+437,Oscar Health,Health Care: Insurance and Managed Care,H,"Finance, Insurance & Real Estate",1,Insurance industry falls under finance and real estate.
+438,Ovintiv,"Mining, Crude-Oil Production",B,Mining,0.9,"Company focuses on crude-oil production, fitting mining."
+439,Seaboard,Food Production,A,"Agriculture, Forestry & Fishing",0.9,Food production aligns with agriculture and fishing.
+440,Hertz,"Automotive Retailing, Services",G,Retail Trade,0.9,Company primarily engages in automotive retailing services.
+441,Skechers U.S.A.,Apparel,D,Manufacturing,0.9,Apparel production is a manufacturing process.
+442,Altice USA,Telecommunications,E,Transportation & Public Utilities,0.9,Telecommunications falls under utilities and public services.
+443,NOV,"Oil and Gas Equipment, Services",I,Services,0.9,Industry includes services related to oil and gas.
+444,Graphic Packaging,"Packaging, Containers",D,Manufacturing,0.9,Core business involves production of packaging goods.
+445,Avery Dennison,"Packaging, Containers",D,Manufacturing,0.9,Core business involves production of packaging materials.
+446,Equinix,Real Estate,H,"Finance, Insurance & Real Estate",0.9,Real estate services align with finance and insurance.
+447,Insight Enterprises,Information Technology Services,I,Services,0.9,"Company provides IT services, fitting in the Services category."
+448,Sirius XM,Entertainment,I,Services,0.9,Entertainment falls under the services sector.
+449,PVH,Apparel,G,Retail Trade,0.9,Apparel is primarily sold through retail channels.
+450,CenterPoint Energy,Utilities: Gas and Electric,E,Transportation & Public Utilities,1,Utilities fall under transportation and public utilities.
+451,WEC Energy,Utilities: Gas and Electric,E,Transportation & Public Utilities,1,Utilities fall under transportation and public utilities category.
+452,Xylem,Industrial Machinery,D,Manufacturing,0.9,Industrial machinery is primarily manufactured goods.
+453,Franklin Resources,Securities,H,"Finance, Insurance & Real Estate",0.9,Securities are related to finance and investment services.
+454,PPL,Utilities: Gas and Electric,E,Transportation & Public Utilities,1,Utilities fall under transportation and public utilities category.
+455,Workday,Computer Software,I,Services,0.9,Software development falls under services category.
+456,Dover,Industrial Machinery,D,Manufacturing,1,Industrial machinery is a manufactured good.
+457,Packaging Corp. of America,"Packaging, Containers",D,Manufacturing,0.9,Core business involves production of packaging goods.
+458,ABM Industries,Diversified Outsourcing Services,I,Services,0.9,Outsourcing services fall under the services category.
+459,Intuitive Surgical,Medical Products and Equipment,D,Manufacturing,0.9,Core business involves production of medical equipment.
+460,American Financial,Insurance: Property and Casualty (Stock),H,"Finance, Insurance & Real Estate",1,Insurance companies fall under finance and real estate.
+461,Rockwell Automation,"Electronics, Electrical Equip.",D,Manufacturing,0.9,Core business involves production of electrical equipment.
+462,Solventum,Medical Products and Equipment,I,Services,0.9,Medical products relate to healthcare services.
+463,Old Republic International,Insurance: Property and Casualty (Stock),H,"Finance, Insurance & Real Estate",1,Company operates in the insurance sector.
+464,Securian Financial,"Insurance: Life, Health (Stock)",H,"Finance, Insurance & Real Estate",1,Company operates in the insurance sector.
+465,Prologis,Real Estate,H,"Finance, Insurance & Real Estate",1,Real estate companies fall under finance and real estate.
+466,J.M. Smucker,Food Consumer Products,D,Manufacturing,0.9,Food products are manufactured goods.
+467,Taylor Morrison Home,Homebuilders,C,Construction,0.9,Homebuilders primarily engage in construction activities.
+468,XPO,Transportation and Logistics,E,Transportation & Public Utilities,0.9,Transportation and logistics fall under public utilities.
+469,Voya Financial,Diversified Financials,H,"Finance, Insurance & Real Estate",1,Company operates in finance and insurance sectors.
+470,Palo Alto Networks,Network and Other Communications Equipment,D,Manufacturing,0.9,Core business involves production of communication equipment.
+471,Vertiv s,"Electronics, Electrical Equip.",D,Manufacturing,0.9,Electronics manufacturing aligns with production of goods.
+472,Welltower,Real Estate,H,"Finance, Insurance & Real Estate",1,Real estate is primarily financial services.
+473,Foot Locker,Specialty Retailers: Apparel,G,Retail Trade,1,Foot Locker is a retailer specializing in apparel.
+474,Par Pacific,Petroleum Refining,D,Manufacturing,1,Petroleum refining is classified under manufacturing.
+475,TransDigm,Aerospace & Defense,I,Services,0.9,Aerospace & Defense primarily involves services and support.
+476,Commercial Metals,Metals,D,Manufacturing,0.9,Metals production indicates manufacturing activity.
+477,Post s,Food Consumer Products,G,Retail Trade,0.9,Retailing food consumer products fits retail trade.
+478,Masco,"Home Equipment, Furnishings",D,Manufacturing,0.9,Home equipment production indicates manufacturing focus.
+479,Rush Enterprises,"Automotive Retailing, Services",G,Retail Trade,0.9,Company focuses on automotive retailing services.
+480,KBR,Information Technology Services,I,Services,0.9,"Company provides IT services, fitting in the Services category."
+481,Sprouts Farmers Market,Food & Drug Stores,G,Retail Trade,0.9,Retailer focused on food and drug sales.
+482,Williams-Sonoma,Specialty Retailers: Other,G,Retail Trade,1,Company is a retailer specializing in home goods.
+483,Zimmer Biomet s,Medical Products and Equipment,I,Services,0.9,Medical products relate to healthcare services.
+484,CACI International,Information Technology Services,I,Services,0.9,"Company provides IT services, fitting in the Services category."
+485,Microchip Technology,Semiconductors and Other Electronic Components,D,Manufacturing,0.9,Core business involves production of electronic components.
+486,Watsco,Wholesalers: Diversified,F,Wholesale Trade,0.9,Company operates as a wholesaler in diversified products.
+487,Newell Brands,"Home Equipment, Furnishings",D,Manufacturing,0.9,Home equipment production indicates manufacturing focus.
+488,ARKO,Specialty Retailers: Other,G,Retail Trade,1,Specialty retailers fall under retail trade.
+489,Sanmina,Semiconductors and Other Electronic Components,D,Manufacturing,0.9,Core business involves production of electronic components.
+490,Electronic Arts,Entertainment,I,Services,0.9,"Entertainment falls under services, not manufacturing."
+491,Yum Brands,Food Services,I,Services,0.9,Food services fall under the services category.
+492,Fastenal,Wholesalers: Diversified,F,Wholesale Trade,0.9,Company operates as a wholesaler in diversified products.
+493,CMS Energy,Utilities: Gas and Electric,E,Transportation & Public Utilities,1,Utilities fall under transportation and public utilities category.
+494,Monster Beverage,Beverages,D,Manufacturing,0.9,"Beverages are produced goods, fitting manufacturing."
+495,Endeavor,Entertainment,I,Services,0.9,Entertainment falls under the services sector.
+496,Science Applications International,Information Technology Services,I,Services,0.9,"Company provides IT services, fitting in Services category."
+497,Core & Main,Wholesalers: Diversified,F,Wholesale Trade,0.9,"Company is a wholesaler, fitting Wholesale Trade category."
+498,Howmet Aerospace,Aerospace & Defense,D,Manufacturing,0.9,Aerospace manufacturing falls under the manufacturing category.
+498,Ingredion,Food Production,D,Manufacturing,0.9,Food production involves manufacturing processes.
+500,Vulcan Materials,"Building Materials, Glass",C,Construction,0.9,Company produces materials for construction projects.
